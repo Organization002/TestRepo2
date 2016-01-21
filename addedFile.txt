@@ -6,3 +6,6 @@ one line
 added new line
 some thing add and get to commit;;;;
 added by shaik
+
+
+take added to feature 2
