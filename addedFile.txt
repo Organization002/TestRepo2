@@ -8,3 +8,8 @@ some thing add and get to commit;;;;
 
 
 see changes
+
+public void add(int a,int b)
+{
+system.out.println(a+b);
+}
